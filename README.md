@@ -26,9 +26,10 @@ This project involves creating a dashboard for analyzing various aspects of the 
 
 ## File Structure
 
-- `/Raw_Data/` - Folder containing original datasets.
-- `/Processed_Data/` - Folder containing the cleaned and structured dataset.
-- `/PowerBI_Dashboard/` - Power BI project file.
+- `/dataset/` - Folder containing original datasets.
+- `/olympic logo background/` - background image.
+- `/summer Olympics Dashboard/` - Power BI project file.
+-  - `/summer Olympics Dashboard_view/` - final view out dashboard.
 - `README.md` - Documentation for project understanding.
 
 
